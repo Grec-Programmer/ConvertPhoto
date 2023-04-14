@@ -1,0 +1,8 @@
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\bin\Debug\ASCII_Project.exe.config
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\bin\Debug\ASCII_Project.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\bin\Debug\ASCII_Project.pdb
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\obj\Debug\ASCII_Project.csproj.AssemblyReference.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\obj\Debug\ASCII_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\obj\Debug\ASCII_Project.csproj.CoreCompileInputs.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\obj\Debug\ASCII_Project.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\ASCII_Project\ASCII_Project\obj\Debug\ASCII_Project.pdb
